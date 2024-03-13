@@ -1,0 +1,12 @@
+{
+  "files": {
+    "commands/bag/delete-store.js": [
+      {
+        "id": "a3c0f221-2b05-4c68-88e7-78036dc72a11",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ]
+  }
+}
